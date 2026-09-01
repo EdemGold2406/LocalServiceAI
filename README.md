@@ -46,3 +46,4 @@ LocalService AI (LSAI) is an AI-powered marketing assistant and automated SEO au
 
 ---
 
+Can be run locally by cloning and installing dependancies.
